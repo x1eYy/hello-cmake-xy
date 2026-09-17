@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/xy/romomaster/workspace/test_1/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/hello.dir/src/main.cpp.o -c /home/xy/romomaster/workspace/test_1/src/main.cpp",
+  "file": "/home/xy/romomaster/workspace/test_1/src/main.cpp"
+}
+]
